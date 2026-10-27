@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+venv/
+venv311/
+myenv/
+__pycache__/
+*.py[cod]
+.DS_Store
+static/defects/*
+!static/defects/.gitkeep
